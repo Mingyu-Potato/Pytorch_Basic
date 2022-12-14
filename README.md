@@ -1,1 +1,1 @@
-Pytorch Methods 작동 방식 구현해보기
+Pytorch Basic 공부
